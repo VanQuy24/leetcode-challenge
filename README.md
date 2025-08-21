@@ -5,6 +5,18 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 
 ---
 
+##  My LeetCode Profile
+<p align="center">
+  <a href="https://leetcode.com/vanquy24" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/vanquy24?theme=light&ext=heatmap&font=Inter&border=0&radius=20&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" alt="LeetCode Heatmap" width="49%" align="top">
+  </a>
+  <a href="https://leetcode.com/vanquy24" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/vanquy24?theme=light&ext=contest&font=Inter&border=0&radius=20&hide=ranking,total-solved-text" alt="LeetCode Contest" width="49%" align="top">
+  </a>
+</p>
+
+---
+
 ## 📌 Goals
 - Solve at least **one problem per day** on [LeetCode](https://leetcode.com/).
 - Improve **algorithmic thinking** and **data structure mastery**.
@@ -76,7 +88,7 @@ or (if the script has execute permission):
 ---
 
 ## ✅ Progress Tracker
-* [ ] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
+* [x] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
 
 ---
 
