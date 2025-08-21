@@ -76,6 +76,7 @@ or (if the script has execute permission):
 ---
 
 ## ✅ Progress Tracker
+* [ ] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
 
 ---
 
