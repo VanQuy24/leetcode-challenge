@@ -17,6 +17,12 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 
 ---
 
+## ✅ Progress Tracker
+* [x] 2025-08-21 | [1504. Count Submatrices With All Ones](solutions/1504_count-submatrices-with-all-ones.py)
+* [x] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
+
+---
+
 ## 📌 Goals
 - Solve at least **one problem per day** on [LeetCode](https://leetcode.com/).
 - Improve **algorithmic thinking** and **data structure mastery**.
@@ -83,13 +89,6 @@ or (if the script has execute permission):
 ./new.sh "2. Add Two Numbers"
 ./new.sh "3. Longest Substring Without Repeating Characters"
 ```
-
-
----
-
-## ✅ Progress Tracker
-* [x] 2025-08-21 | [1504. Count Submatrices With All Ones](solutions/1504_count-submatrices-with-all-ones.py)
-* [x] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
 
 ---
 
