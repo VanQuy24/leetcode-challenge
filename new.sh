@@ -83,7 +83,7 @@ echo "✅ Created: $FILENAME"
 # --- Update README.md Progress Tracker ---
 if [ -f "README.md" ]; then
   TODAY=$(date +%Y-%m-%d)
-  NEW_ENTRY="* [ ] $TODAY | [$NUMBER. $TITLE]($FILENAME)"
+  NEW_ENTRY="- [ ] $TODAY | [$NUMBER. $TITLE]($FILENAME)"
 
   if grep -q "## ✅ Progress Tracker" README.md; then
     awk -v entry="$NEW_ENTRY" '

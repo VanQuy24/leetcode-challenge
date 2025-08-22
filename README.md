@@ -5,7 +5,8 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 
 ---
 
-##  My LeetCode Profile
+## My LeetCode Profile
+
 <p align="center">
   <a href="https://leetcode.com/vanquy24" target="_blank">
     <img src="https://leetcard.jacoblin.cool/vanquy24?theme=light&ext=heatmap&font=Inter&border=0&radius=20&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" alt="LeetCode Heatmap" width="49%" align="top">
@@ -18,12 +19,15 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
-* [x] 2025-08-21 | [1504. Count Submatrices With All Ones](solutions/1504_count-submatrices-with-all-ones.py)
-* [x] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
+
+- [x] 2025-08-22 | [3195. Find the Minimum Area to Cover All Ones I](solutions/3195_find-the-minimum-area-to-cover-all-ones-i.py)
+- [x] 2025-08-21 | [1504. Count Submatrices With All Ones](solutions/1504_count-submatrices-with-all-ones.py)
+- [x] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
 
 ---
 
 ## 📌 Goals
+
 - Solve at least **one problem per day** on [LeetCode](https://leetcode.com/).
 - Improve **algorithmic thinking** and **data structure mastery**.
 - Build **consistency and discipline** in problem-solving.
@@ -32,6 +36,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## 📂 Repository Structure
+
 ```
 
 leetcode-challenge/
@@ -47,16 +52,17 @@ leetcode-challenge/
 
 ```
 
-- All solutions are stored inside the **`solutions/`** folder.  
+- All solutions are stored inside the **`solutions/`** folder.
 - File naming convention:  
-    `<problem-number>_<problem-name>.py`  
-    Example: `1_two-sum.py`  
+   `<problem-number>_<problem-name>.py`  
+   Example: `1_two-sum.py`
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python (main), may include Java/C++ for practice.  
-- **Platform:** [LeetCode](https://leetcode.com/)  
+
+- **Language:** Python (main), may include Java/C++ for practice.
+- **Platform:** [LeetCode](https://leetcode.com/)
 
 ---
 
@@ -65,9 +71,10 @@ leetcode-challenge/
 You can quickly generate a new solution file using the helper script **`new.sh`**.
 
 ### Run Command
+
 ```bash
 bash new.sh "<problem-number>. <problem-title>"
-````
+```
 
 or (if the script has execute permission):
 
@@ -96,9 +103,9 @@ or (if the script has execute permission):
 
 Each solution file may include:
 
-* **Code implementation**
-* **Approach explanation (in comments)**
-* **Time & space complexity analysis**
+- **Code implementation**
+- **Approach explanation (in comments)**
+- **Time & space complexity analysis**
 
 ---
 
