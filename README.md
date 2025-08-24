@@ -19,7 +19,10 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
-- [ ] 2025-08-23 | [3197. Find the Minimum Area to Cover All Ones II](solutions/3197_find-the-minimum-area-to-cover-all-ones-ii.py)
+- [x] 2025-08-24 | [WC464.2. Partition Array Into K-Distinct Groups](solutions/wc464_2_partition-array-into-k-distinct-groups.py)
+- [x] 2025-08-24 | [WC464.1. GCD of Odd and Even Sums](solutions/wc464_1_gcd-of-odd-and-even-sums.py)
+- [x] 2025-08-24 | [1493. Longest Subarray of 1s After Deleting One Element](solutions/1493_longest-subarray-of-1s-after-deleting-one-element.py)
+- [x] 2025-08-23 | [3197. Find the Minimum Area to Cover All Ones II](solutions/3197_find-the-minimum-area-to-cover-all-ones-ii.py)
 - [x] 2025-08-22 | [3195. Find the Minimum Area to Cover All Ones I](solutions/3195_find-the-minimum-area-to-cover-all-ones-i.py)
 - [x] 2025-08-21 | [1504. Count Submatrices With All Ones](solutions/1504_count-submatrices-with-all-ones.py)
 - [x] 2025-08-21 | [1. Two Sum](solutions/1_two-sum.py)
