@@ -7,18 +7,17 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 
 ## My LeetCode Profile
 
-<p align="center">
-  <a href="https://leetcode.com/vanquy24" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/vanquy24?theme=light&ext=heatmap&font=Inter&border=0&radius=20&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" alt="LeetCode Heatmap" width="49%" align="top">
-  </a>
-  <a href="https://leetcode.com/vanquy24" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/vanquy24?theme=light&ext=contest&font=Inter&border=0&radius=20&hide=ranking,total-solved-text" alt="LeetCode Contest" width="49%" align="top">
-  </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/vanquy24?width=500&theme=light&ext=heatmap&font=Inter&border=0&radius=5&hide=ranking)
+
+<a href="https://leetcode.com/vanquy24" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/vanquy24?width=500&theme=light&ext=contest&font=Inter&border=0&radius=5&hide=ranking" alt="LeetCode Heatmap" style="margin-top:-220px;">
+</a>
 
 ---
 
 ## ✅ Progress Tracker
+
+- [x] 2025-08-26 | [3000. Maximum Area of Longest Diagonal Rectangle](solutions/3000_maximum-area-of-longest-diagonal-rectangle.py)
 - [x] 2025-08-25 | [498. Diagonal Traverse](solutions/498_diagonal-traverse.py)
 - [x] 2025-08-24 | [WC464.2. Partition Array Into K-Distinct Groups](solutions/wc464_2_partition-array-into-k-distinct-groups.py)
 - [x] 2025-08-24 | [WC464.1. GCD of Odd and Even Sums](solutions/wc464_1_gcd-of-odd-and-even-sums.py)
