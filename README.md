@@ -16,6 +16,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
+- [x] 2025-08-28 | [3446. Sort Matrix by Diagonals](solutions/3446_sort-matrix-by-diagonals.py)
 - [x] 2025-08-27 | [3459. Length of Longest V-Shaped Diagonal Segment](solutions/3459_length-of-longest-v-shaped-diagonal-segment.py)
 - [x] 2025-08-26 | [3000. Maximum Area of Longest Diagonal Rectangle](solutions/3000_maximum-area-of-longest-diagonal-rectangle.py)
 - [x] 2025-08-25 | [498. Diagonal Traverse](solutions/498_diagonal-traverse.py)
