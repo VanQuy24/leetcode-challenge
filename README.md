@@ -16,6 +16,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
+- [x] 2025-08-30 | [36. Valid Sudoku](solutions/36_valid-sudoku.py)
 - [x] 2025-08-29 | [3021. Alice and Bob Playing Flower Game](solutions/3021_alice-and-bob-playing-flower-game.py)
 - [x] 2025-08-28 | [3446. Sort Matrix by Diagonals](solutions/3446_sort-matrix-by-diagonals.py)
 - [x] 2025-08-27 | [3459. Length of Longest V-Shaped Diagonal Segment](solutions/3459_length-of-longest-v-shaped-diagonal-segment.py)
