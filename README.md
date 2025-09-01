@@ -16,6 +16,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
+- [ ] 2025-09-01 | [1792. Maximum Average Pass Ratio](solutions/1792_maximum-average-pass-ratio.py)
 - [ ] 2025-08-31 | [37. Sudoku Solver](solutions/37_sudoku-solver.py)
 - [x] 2025-08-30 | [36. Valid Sudoku](solutions/36_valid-sudoku.py)
 - [x] 2025-08-29 | [3021. Alice and Bob Playing Flower Game](solutions/3021_alice-and-bob-playing-flower-game.py)
