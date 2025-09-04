@@ -16,6 +16,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
+- [ ] 2025-09-04 | [3516. Find Closest Person](solutions/3516_find-closest-person.py)
 - [ ] 2025-09-03 | [3027. Find the Number of Ways to Place People II](solutions/3027_find-the-number-of-ways-to-place-people-ii.py)
 - [x] 2025-09-02 | [3025. Find the Number of Ways to Place People I](solutions/3025_find-the-number-of-ways-to-place-people-i.py)
 - [ ] 2025-09-01 | [1792. Maximum Average Pass Ratio](solutions/1792_maximum-average-pass-ratio.py)
