@@ -16,6 +16,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
+- [ ] 2025-09-06 | [3495. Minimum Operations to Make Array Elements Zero](solutions/3495_minimum-operations-to-make-array-elements-zero.py)
 - [ ] 2025-09-05 | [2749. Minimum Operations to Make the Integer Zero](solutions/2749_minimum-operations-to-make-the-integer-zero.py)
 - [ ] 2025-09-04 | [3516. Find Closest Person](solutions/3516_find-closest-person.py)
 - [ ] 2025-09-03 | [3027. Find the Number of Ways to Place People II](solutions/3027_find-the-number-of-ways-to-place-people-ii.py)
