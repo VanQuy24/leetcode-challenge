@@ -16,6 +16,7 @@ This repo is a personal journey of solving algorithmic problems every day, sharp
 ---
 
 ## ✅ Progress Tracker
+- [ ] 2025-09-09 | [2327. Number of People Aware of a Secret](solutions/2327_number-of-people-aware-of-a-secret.py)
 - [ ] 2025-09-07 | [1304. Find N Unique Integers Sum up to Zero](solutions/1304_find-n-unique-integers-sum-up-to-zero.py)
 - [ ] 2025-09-06 | [3495. Minimum Operations to Make Array Elements Zero](solutions/3495_minimum-operations-to-make-array-elements-zero.py)
 - [ ] 2025-09-05 | [2749. Minimum Operations to Make the Integer Zero](solutions/2749_minimum-operations-to-make-the-integer-zero.py)
